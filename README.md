@@ -3,6 +3,6 @@ Our aim is to build an autonomous robot which can follow a white line and keep t
 
 Video Link for Project : https://www.youtube.com/watch?v=gYXfqpqtaw8  \
 Final Robot:
-![alt text][bot]
+![alt text][logo]
 
-[bot]: https://drive.google.com/open?id=1k4NYpnI4ly-ItnzMl2-zzniPWe4zVo5u
+[logo]: https://drive.google.com/open?id=1k4NYpnI4ly-ItnzMl2-zzniPWe4zVo5u "Logo Title Text 2"
