@@ -5,4 +5,4 @@ Video Link for Project : https://www.youtube.com/watch?v=gYXfqpqtaw8  \
 Final Robot:
 ![alt text][bot]
 
-[bot]: https://drive.google.com/open?id=1k4NYpnI4ly-ItnzMl2-zzniPWe4zVo5u "bot Title Text 2"
+[bot]: https://drive.google.com/open?id=1k4NYpnI4ly-ItnzMl2-zzniPWe4zVo5u
