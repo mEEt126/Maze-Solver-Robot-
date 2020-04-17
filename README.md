@@ -3,4 +3,4 @@ Our aim is to build an autonomous robot which can follow a white line and keep t
 
 Video Link for Project : https://www.youtube.com/watch?v=gYXfqpqtaw8  \
 Final Robot:
-![alt text](https://drive.google.com/open?id=1k4NYpnI4ly-ItnzMl2-zzniPWe4zVo5u "Logo Title Text 2")
+![alt text](https://github.com/mEEt126/Maze-Solver-Robot-/blob/master/Maze_solver.png "Logo Title Text 1")
